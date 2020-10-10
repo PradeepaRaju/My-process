@@ -1,0 +1,51 @@
+body{
+font-style: italic;
+  font-size: 20px;
+color:#fff;
+  line-height:normal;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfe6yDm7WfEtgrB9aCB4fd_JdwaxmoHXt7lg&usqp=CAU");
+}
+hr{
+border-style: dotted;
+color: white;
+}
+.search{
+  padding-left: 70%;
+  padding-bottom: 5%;
+
+}
+h1{
+  text-align: center;
+color: white;
+font-weight: bold;
+}
+h3{
+  padding-bottom: 3%;
+}
+.front{
+  width:auto;
+  align-items: center;
+}
+div{
+  color: white;
+}
+.one{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  line-height:1.5;
+}
+.two{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  line-height:1.5;
+}
+.three{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  line-height:1.5;
+}
+.four{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  line-height:1.5;
+}
